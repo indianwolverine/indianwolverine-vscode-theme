@@ -2,7 +2,8 @@
   "name": "Indian Wolverine",
   "type": "dark",
   "colors": {
-    "editor.background": "#1e1e1e",
+    "editor.background": "#001d3c",
+    "selection.background": "#ff0000",
     "editor.foreground": "#d4d4d4",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
@@ -26,8 +27,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#74d5d5",
-        "fontStyle": "italic"
+        "foreground": "#EEFFFF"
       }
     },
     {
