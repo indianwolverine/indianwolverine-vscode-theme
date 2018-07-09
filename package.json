@@ -1,0 +1,22 @@
+{
+    "name": "indianwolverine",
+    "displayName": "indianwolverine",
+    "description": "indianwolverine theme",
+    "version": "0.0.1",
+    "publisher": "indianwolverine",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Indian Wolverine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Indian Wolverine-color-theme.json"
+            }
+        ]
+    }
+}
